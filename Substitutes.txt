@@ -1,0 +1,6 @@
+productname	substitutename	reason	substitutiondate	remarks
+apple	orange	outofstock	april	tasty
+banana	mango	requested	april	sweet
+grape	pineapple	unavailable	may	juicy
+peach	nectarine	discontinued	march	fresh
+kiwi	lychee	preferred	may	smooth
